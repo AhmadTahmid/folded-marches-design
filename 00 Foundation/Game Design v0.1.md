@@ -20,12 +20,14 @@ The late adventure is to get people and creatures out of that kindness—and kee
 
 ## Read this edition in order
 
+**Opening update:** [First Five Hours](../02%20Narrative/First%20Five%20Hours.md) and its linked scripts/atlas now govern the opening's exact chronology, dialogue, locations and economy. The campaign below remains its wider context. The original v0.1 tag preserves the earlier edition.
+
 | Page | What it settles for this working draft |
 |---|---|
 | [Regional Map v0.1](../01%20World/Regional%20Map%20v0.1.md) | Where the adventures sit, route connections, environmental contrasts and access |
 | [Rocca Selva](../01%20World/Rocca%20Selva.md) | An original mountain home with a playable layout, not Bellwater renamed |
 | [Campaign Draft v0.1](../02%20Narrative/Campaign%20Draft%20v0.1.md) | A causal beginning-to-ending story, concrete threat, quests and outcomes |
-| [Opening Script v0.1](../02%20Narrative/Opening%20Script%20v0.1.md) | Short spoken dialogue, staging, player action and continuation |
+| [First Five Hours](../02%20Narrative/First%20Five%20Hours.md) | Detailed opening scripts, village life, side stories, commerce, creatures and two afternoon adventures |
 | [Creature Roster v0.1](../01%20World/Creature%20Roster%20v0.1.md) | Who the player meets, why to care, how to recruit and what they do |
 | [Adventure Rules v0.1](../03%20Game%20Design/Adventure%20Rules%20v0.1.md) | Exploration, collection, combat progression, failure and daily pleasures |
 | [Traveling Cast](../01%20World/Traveling%20Cast.md), [Cast Arcs](../02%20Narrative/Cast%20Arcs%20and%20Relationships.md), [Family](../02%20Narrative/Family%20at%20Home.md) | People with desires, errors and lives outside the protagonist |
@@ -54,7 +56,7 @@ This is an illustrative session, not an extra mandatory quest or a declaration t
 
 The campaign uses four movements and a connected open region, with the two cities visitable in either order. Late pressure follows committed story events, not hours spent exploring. The specific sanctuary Keeper and its observer channel have a concrete local mechanism in the campaign draft; the ultimate origin of the Great Opening remains beyond this campaign's required answer.
 
-Free exploration is real-time. Creature combat is strategic and turn-based. Five companions are the eventual active ceiling, reached through staged learning; the opening begins with one. Clear recruitment conditions replace repeated capture rolls. Defeat preserves growth and can lead to recovery or a bounded rescue. Progressively discovered mapping supplies orientation without revealing the entire world. Borrowed tools, guides or ordinary routes prevent compulsory collection of one particular species.
+Free exploration is real-time. Creature combat is strategic and turn-based. Five companions are the eventual active ceiling, reached through staged learning; the optional first practice uses one, with a loan if the player has not recruited. Clear recruitment conditions replace repeated capture rolls. Defeat preserves growth and can lead to recovery or a bounded rescue. Progressively discovered mapping supplies orientation without revealing the entire world. Borrowed tools, guides or ordinary routes prevent compulsory collection of one particular species.
 
 For this edition, the protagonist has a fixed family situation, speaking voice and personal desires, with player-chosen name and preset appearance/clothing as the recommended presentation. This develops D-011's open comparison; it does not claim the user has selected it. Dialogue choices shape attitude, commitments and relationships rather than erase his established history.
 

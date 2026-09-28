@@ -5,14 +5,14 @@ origin: assistant proposal
 ---
 # Quest index
 
-**v0.1 sequence:** [Campaign](Campaign%20Draft%20v0.1.md) orders twelve beats; [Opening Script](Opening%20Script%20v0.1.md) stages the first twenty-to-thirty-minute target. Existing quest pages supply depth, not twelve additional compulsory quests.
+**Current sequence:** [Campaign](Campaign%20Draft%20v0.1.md) orders twelve beats; [First Five Hours](First%20Five%20Hours.md), [Opening Day](Opening%20Day%20Script.md) and [Two Bookings](Two%20Bookings%20Script.md) own its detailed opening. [Rocca Residents and Side Stories](Rocca%20Residents%20and%20Side%20Stories.md) adds six optional local stories. Their duration estimates replace the older compact opening target; neither estimate is measured playtime. Existing quest pages supply depth, not an additional compulsory checklist.
 
-Ten developed quest proposals establish a first narrative spine and connected side stories. They are a foundation for discussion, not a claim that the whole game has been exhaustively scripted. Each page includes scenes, choice consequences, discovery-order variation, prerequisites, and interruption/reentry behavior.
+The ten wider quest briefs below remain a foundation for discussion, not a claim that the whole game has been exhaustively scripted. The opening package supplies concrete dialogue and state for F5-M01–06 and F5-S01–06; these identifiers are not extra compulsory quests before departure.
 
 | Quest | Role and place | Central question | What it can contribute later |
 |---|---|---|---|
-| [Bells Before Breakfast](Quests/Bells%20Before%20Breakfast.md) | Opening; Rocca Selva and the Bell Road | What does it mean to leave home with its trust? | Introductions, chosen relationships, a small preserved or substituted request |
-| [Under the White Branches](Quests/Under%20the%20White%20Branches.md) | Optional first-region field adventure; White Orchard | Can two ambitious observers give each other accurate credit? | Vela, practical route knowledge, a revised or separate field account |
+| [Bells Before Breakfast](Quests/Bells%20Before%20Breakfast.md) | Opening identity, expanded by the current scripts; Rocca Selva and Bell Road | What does it mean to leave home with its trust? | Work-seeking, optional partnerships, the finite Pell survey and a chosen next road |
+| [Under the White Branches](Quests/Under%20the%20White%20Branches.md) | Optional further field study; White Orchard | Can two ambitious observers give each other accurate credit? | Vela, route knowledge and a new field account that preserves any opening credit agreement |
 | [A Bell Above the Clouds](Quests/A%20Bell%20Above%20the%20Clouds.md) | Optional first-region expedition; Cloud Loom approach | Can shared work leave room for a colleague's own ambition? | Jori, a lasting shelter improvement, a performance and later invitations |
 | [A Seat Reserved for Rain](Quests/A%20Seat%20Reserved%20for%20Rain.md) | Regional arc; Istravel | Can care remain generous while its recipient wants something inconvenient? | A repeatable discrepancy, treatment alternatives, civic witnesses |
 | [The Weight of a Gate](Quests/The%20Weight%20of%20a%20Gate.md) | Regional arc; Orthe | Can a right to refuse be meaningful without practical support? | Repair capacity, transition care, appeals, a funded route |
@@ -22,9 +22,11 @@ Ten developed quest proposals establish a first narrative spine and connected si
 | [A Room for the Keeper](Quests/A%20Room%20for%20the%20Keeper.md) | Optional recurring adventure; Tavio's route and a Braided Road return pavilion | What happens when a caring relationship cannot accommodate departure? | A recognizable Doorling, a witnessed boundary test, an exit that people can use |
 | [A Table That Keeps Its Empty Chair](Quests/A%20Table%20That%20Keeps%20Its%20Empty%20Chair.md) | Cross-faction culmination; shared regional junction | What agreement can survive a person who still says no? | A material regional settlement and relationship-based epilogues |
 
-[First Region](First%20Region.md) connects the opening, [First Paid Journey](First%20Paid%20Journey.md), an optional companion arc, these two new quests, and existing activities. The scene study is not counted as an additional quest page.
+[First Region](First%20Region.md) connects the opening package, the [First Paid Journey](First%20Paid%20Journey.md) relationship material, a companion arc and the wider optional adventures. Pell's current base job pays 36 coins for three observations delivered at Three-Awning Exchange. The subsequent 18-coin orchard and 10-coin wagon bookings are exclusive; the later White Branches study cannot grant either receipt again. Mara's errands and battles are optional.
 
 ## Suggested routes, not a mandatory sequence
+
+The routes below are wider exploratory alternatives. [Campaign v0.1](Campaign%20Draft%20v0.1.md) owns the active draft's eventual city/Reedhouse thresholds; this directory does not silently remove them or add an opening license requirement.
 
 **September scene studies:** [Companion Quests and Camp Conversations](Companion%20Quests%20and%20Camp%20Conversations.md) develops four personal quest chains and three creature studies; [The Observer and the Sanctuary](The%20Observer%20and%20the%20Sanctuary.md) develops three central scene alternatives and a warehouse rescue; [Atmospheric Frontiers](../01%20World/Atmospheric%20Frontiers.md) provides local adventure briefs. They are not counted as additional dedicated, fully branched quest pages in the ten-quest directory above. Selected studies can later receive their own stable IDs, exact prerequisites, state branches and re-entry behavior.
 

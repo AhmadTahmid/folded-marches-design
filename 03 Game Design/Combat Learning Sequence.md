@@ -8,11 +8,13 @@ updated: 2026-09-28
 
 Five encounters build from **one partner's choice to a coordinated objective**. Their pleasure should come from a creature, a place and something worth doing. There are no fixed hours, compulsory license or species checklist. Players may skip practice, take either city road and return later; keepers offer voluntary loans. Late arrivals receive explanations without pretending to have met someone before.
 
-These proposals fit the existing [Opening Script](../02%20Narrative/Opening%20Script%20v0.1.md), [First Paid Journey](../02%20Narrative/First%20Paid%20Journey.md) and [Campaign](../02%20Narrative/Campaign%20Draft%20v0.1.md). They add no survey requirements, combine no exclusive bookings and replace no quest outcomes. [Tactical Combat](Tactical%20Combat.md), [Status and Counterplay](Status%20and%20Counterplay.md) and the [benchmark kits](First%20Region%20Creature%20Kits.md) own the rules. Each scene interaction spends its creature's activation, costs zero Focus and grants no protagonist turn. Fixtures remain draft.
+The [First Five Hours](../02%20Narrative/First%20Five%20Hours.md) and [Opening Battle Encounters](Opening%20Battle%20Encounters.md) own current opening placement; the [Campaign](../02%20Narrative/Campaign%20Draft%20v0.1.md) owns later events. These proposals add no survey requirements, combine no exclusive bookings and replace no quest outcomes. [Tactical Combat](Tactical%20Combat.md), [Status and Counterplay](Status%20and%20Counterplay.md) and the [benchmark kits](First%20Region%20Creature%20Kits.md) own the rules. Each scene interaction spends its creature's activation, costs zero Focus and grants no protagonist turn. Fixtures remain draft.
 
 ## 1. The crooked pennant — choose what one partner does
 
-At Mara's optional cistern practice corner, a red pennant has snagged around its pole. Her Bellwether looks at it, then squares its broad feet toward the player's partner. Mara leaves it crooked: “It likes having something to beat.” Clatter is an example; declining its invitation removes neither the match nor loan access.
+At Mara's optional **Pass House practice court, RS-08b**, a red pennant has snagged around its pole. Her Bellwether looks at it, then squares its broad feet toward the player's partner. Mara leaves it crooked: “It likes having something to beat.” Clatter is an example; declining its invitation removes neither the match nor loan access.
+
+Offer this same F5-B01 match after Clatter's short walk, within the representative **27–45-minute** opening segment. This is a pacing estimate, not a timer or unlock condition. Tavio points toward Rope Walk; the later Cistern Crown sign gives directions to the same court, never a second practice site beside the water. No survey or side-story completion is required. A player can arrive early, decline or return later with the free disclosed practice loan still available.
 
 The opponent lowers its crescent horns before **Horn Run**. UI: **“Charging at your partner: 12 Impact.”** The primary decision is whether to make damage progress or spend this activation stopping the hit. Win by exhausting the opponent; friendly exhaustion loses. Immediate menu surrender and full practice recovery are available, with retry or departure. Victory is never required for wages or travel.
 
@@ -32,9 +34,9 @@ The defender scrapes its claws toward the front partner. UI: **“Strike → Fro
 
 ## 3. Rovan's second answer — a familiar plan meets a counter
 
-On an optional return to the Bell Road exchange, Rovan lays two cups on a crate. His Glassgrazer carefully shelters one beneath a mineral fan while his Bellwether noses the other toward the edge. “You stopped the charge. Now I've brought someone who can help it.” This is the existing early keeper challenge, not his later closure or a compulsory appointment.
+On an optional return to the Bell Road exchange, Rovan lays two cups on a crate. His Glassgrazer carefully shelters one beneath a mineral fan while his Bellwether noses the other toward the edge. “My grazer keeps him on his feet. Want to try against the pair?” This introduction works whether the player interrupted Mara's charge, won another way or skipped her lesson. This is the early keeper challenge, not Rovan's later closure or a compulsory appointment.
 
-Two friendly partners face his front Bellwether and rear Glassgrazer. Win by exhausting both opponents; lose when both friendlies exhaust. Surrender, recovery and a later rematch remain available. The reason to accept is a recognizable rival answering a plan the player already enjoyed.
+Two friendly partners face his front Bellwether and rear Glassgrazer. Win by exhausting both opponents; lose when both friendlies exhaust. Surrender, recovery and a later rematch remain available. The pleasure is outmaneuvering a practiced pair; players who enjoyed the earlier interruption can discover how an opponent answers it.
 
 The primary decision is **when to disrupt a plan whose support can answer**. The Glassgrazer opens the enemy queue: Settling Pulse on a controlled Bellwether, otherwise Guard. Bellwether follows with Horn Run when ready, otherwise Strike at the named front target; an illegal attack becomes Guard. The fan turns toward its partner before the rescue. UI: **“Clears its partner's Stagger before the charge.”**
 

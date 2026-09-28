@@ -6,6 +6,8 @@ updated: 2026-09-27
 ---
 # Engagement reset
 
+**2026-09-28 opening owner:** [First Five Hours](../02%20Narrative/First%20Five%20Hours.md) develops the response into a full village day. Its first optional duel is at the Pass House court after the early companion walk; later exercises remain optional. The compressed timing and sample sequence below are historical alternatives, not a second simultaneous opening or proof of measured pace.
+
 **Current scope, later on 2026-09-27:** D-054 authorizes one isolated 1v1 integration using the original combat engine and the returned standalone presentation. The user enjoyed the simple demo, called the battle “super” and better than before, and praised its animations (D-055). Existing monsters were reused, so this is no new creature-art judgment; UI polish is deferred. The wider opening below remains a design proposal alongside the comprehensive expansion (working-archive reference). Preserve the main game/default 5v3 encounter; see coordination scope (working-archive reference). The browser slice has supplied useful implementation evidence and direct feedback. It has not established an engaging opening or an accepted creature style.
 
 The user rejected the 0.3 monsters' appearance, felt overwhelmed by the opening combatants, pressed buttons without reading, found the interface cluttered and the writing obscure, and questioned the visible “Narration” label. They still want strategic combat, distinctive creatures, stronger individual move animation and a game worth exploring. This page proposes a response; its sequence, dialogue and smaller encounter sizes are not adopted canon or implemented changes.

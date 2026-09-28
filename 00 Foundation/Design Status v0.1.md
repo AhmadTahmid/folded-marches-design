@@ -6,7 +6,7 @@ updated: 2026-09-28
 ---
 # Design status v0.1
 
-The design is independent of every visual/technical reference. Current work completes a readable wiki edition; game implementation is deferred. Existing experiments remain useful method evidence and are not an approved town, opening or final creature style.
+The design is independent of every visual/technical reference. The user reports successfully building Rocca Selva but finding its purpose and content too thin. Current work supplies a detailed opening for the user to implement; this writing pass does not inspect or change their build. Existing experiments remain useful method evidence and are not an approved town, opening or final creature style.
 
 ## Established user direction
 
@@ -18,13 +18,19 @@ The design is independent of every visual/technical reference. Current work comp
 - Recruitment should not center on repeated random capture items. Personal quests, recurring character depth, environmental interaction, everyday charm and short staged dialogue matter.
 - Develop comeback pressure, attachment and fast-reaction excitement; compare lasting consequences with recovery/rescue rather than assume permanent companion death.
 - Sprite characters and creatures in a 3D world remain the selected representation. WebGL2/browser methods are the current technical direction, but their present implementation limits do not determine fictional ambition.
-- Creative drafting is authorized. Finishing the wiki takes priority over building now. Public GitHub sharing of this edition is authorized.
+- Creative drafting and public GitHub sharing are authorized. The latest assignment gives Codex the writing/worldbuilding responsibility for the first five hours, with implementation owned by the user.
 
 ## Recommended authored choices for this edition
 
 The named setting, species, cast and exact quests remain drafts. [Game Design v0.1](Game%20Design%20v0.1.md) and its linked pages form one current interpretation: ten connected regions; a four-movement, twelve-quest campaign; cities visitable in either order; a local Keeper whose care obstructs departure; independent human wrongdoing; three playable exit arrangements; short-lived cooperative Duets; recovery/rescue as the default; a speaking protagonist with a chosen name and preset appearance; and a bittersweet living world after the crisis.
 
 These author choices make a coherent document available for review. They do not pretend that the user approved each invention. Earlier alternative pages remain a workshop of possibilities; a collaborator implementing this edition follows the explicit v0.1 choice and reports a desired change rather than combining mutually exclusive versions.
+
+## Expanded opening on main
+
+[First Five Hours](../02%20Narrative/First%20Five%20Hours.md) is the current opening owner. It supplies the work-seeking morning, Pell's finite three-observation survey, the report at the Three-Awning Exchange, optional exclusive orchard/wagon bookings and an evening return. It also supplies the detailed village atlas, interiors, residents, six local stories, shops, creature meetings and optional battles. The 36-coin base survey and other prices are authored fixtures, not user-selected balance values.
+
+Morning precedes hiring; the older compressed opening, obligatory road-stewardship errands and prototype wage do not govern this package. Later campaign events remain intact. The [completion audit](../04%20Production/First%20Five%20Hours%20Completion%20Audit.md) records source coverage and paper review, while the [handoff](../04%20Production/First%20Five%20Hours%20Handoff.md) prepares implementation. The 300-minute route is a pacing hypothesis with shorter valid routes, not measured playtime. New scenes remain draft pending critique.
 
 ## Deliberately unresolved
 

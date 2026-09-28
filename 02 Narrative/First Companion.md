@@ -5,7 +5,7 @@ origin: assistant relationship proposal from user direction on 2026-09-26
 ---
 # The creature that comes with him
 
-**Developed example, not a compulsory starter:** the inexperienced [Bellwether](../01%20World/Bestiary.md#bellwether) from [Bells Before Breakfast](Quests/Bells%20Before%20Breakfast.md). The working nickname is **Clatter**; the player can choose another. Its appearance, history, and scenes below remain proposals. The protagonist is the young provider established in [Personal Story](Personal%20Story.md), with a mother and three younger siblings. His father's absence stays an open author decision.
+**Developed example, not a compulsory starter:** the inexperienced [Bellwether](../01%20World/Bestiary.md#bellwether) introduced in [Opening Day](Opening%20Day%20Script.md). [RS-C01](../03%20Game%20Design/Opening%20Creatures%20and%20Commerce.md#rs-c01--clatter-has-somewhere-else-to-stand) owns its current invitation, decline and return state. The working nickname is **Clatter**; the player can choose another. These appearance and relationship scenes remain proposals. The protagonist is the young provider established in [Personal Story](Personal%20Story.md); his father's absence stays open.
 
 The relationship should begin with two creatures wanting an interesting road. He wants work and a wider life. Clatter wants room to move, familiar calls answered, and access to particular kinds of scrub. Neither understands the other's ambitions completely. They can nevertheless become very good at traveling together.
 
@@ -35,7 +35,7 @@ Later, away from the demonstration, the protagonist offers an ordinary companion
 
 ## First friction: he mistakes cooperation for speed
 
-Before the survey, he practices the crossing repeatedly. Each successful attempt seems like evidence that he will earn the next wage. By the fourth, Clatter stands sideways and begins browsing.
+This optional scene can occur **before accepting Pell's survey**, while Pell is still in Carrier Yard. He practices the crossing repeatedly, hoping to look ready for paid work. By the fourth, Clatter stands sideways and browses. After acceptance Pell has gone ahead to the exchange: defer the scene to a later shared stop instead of putting them back beside the village plank.
 
 “You know this.”
 
@@ -47,7 +47,7 @@ They establish a short descending call, paired with an open palm, for making roo
 
 ## A guest at the kitchen door
 
-Before the paid departure, a short household visit makes the relationship more than a private bond. These use the proposed names in [Family at Home](Family%20at%20Home.md).
+A voluntary household visit before departure or on the first evening makes the relationship more than a private bond. It is not another required home trip after the market terms review. These use the proposed names in [Family at Home](Family%20at%20Home.md).
 
 - **Ada** notices Clatter rubbing against a newly repaired harness. She relocates the rough brushwood stand and watches it choose that instead. “There. A customer who knows what it wants.” It later recognizes her work apron without becoming obedient to every request.
 - **Lina** letters a sign: PLEASE DO NOT APPLAUD THE LIVESTOCK. Clatter pushes its forehead beneath the board to scratch. She adds an arrow. The joke gives them something to discuss besides her brother's departure.
@@ -57,13 +57,13 @@ On a return visit, one of them can know a useful preference the protagonist miss
 
 ## First practical success: a way back through weather
 
-This scene can sit inside [First Paid Journey](First%20Paid%20Journey.md), on a marked maintenance spur of the Bell Road. A gust turns the next stretch pale with cloud. A loose board knocks against a post. Clatter refuses the crossing; the protagonist initially looks ahead for something alarming.
+This optional companion staging sits at the wind-cut bend in [Opening Day](Opening%20Day%20Script.md), using its existing loose fastening rather than adding a fourth survey task. A gust brings pale cloud across the view. Clatter refuses the rocking board; the protagonist initially looks ahead for something alarming.
 
-The player can inspect the footing and noise, seek the marked longer path, or ask Pell to check. On inspection, the post moves under pressure. He and Pell secure the existing support with the supplied maintenance fastening. Clatter crosses after the board stops shifting. Its refusal was useful evidence with an ordinary, testable cause.
+Inspect the footing and noise, take the marked carrying contour, or ask the passing road worker to steady the support while fastening it with the supplied kit. **Pell is already at Three-Awning Exchange.** Clatter crosses after the board stops shifting. Its refusal was useful evidence with an ordinary cause; choosing the contour remains an equally valid paid report.
 
-Fog still hides the return bend. Clatter answers a familiar grazing call, waits for the hillside echo, and takes the correct turn. The protagonist checks Pell's marker and the ground before following. Animal knowledge and human records agree. The report now identifies both the loose support and a return marker needing better visibility.
+Where a grazing call and hillside echo are audible, Clatter may turn toward the familiar path. The protagonist still checks the actual marker and footing. That flourish grants no automatic survey record: the player records the two stones' 14 readings, the sheet's expected 16 at this bend, and any visibility or repair note actually observed.
 
-At the exchange, Pell writes both contributions into the account. The protagonist receives ordinary credit for completed work. Clatter finds a rough crate corner and presents its neck to him. Their first victory is a safer road and a completed commission; the grander significance belongs to what the player remembers.
+At the exchange, Pell credits the submitted observations and pays the ordinary 24-coin balance of the 36-coin commission once. A repair or Clatter's presence adds no fee. Clatter finds a rough crate corner and presents its neck; the completed work and remembered cooperation provide the satisfaction.
 
 The longer path remains valid, with its own useful survey observation. Following Clatter without inspection is never the uniquely correct answer. This is field cooperation, not a new spell, compulsory creature gate, or bonus combat action.
 

@@ -5,7 +5,7 @@ origin: assistant proposal
 ---
 # Story architecture
 
-**Active authored draft:** [Campaign v0.1](Campaign%20Draft%20v0.1.md) supplies the coherent twelve-beat route and three playable endings. Its local Keeper mechanism governs that draft; broader alternatives below remain reference.
+**Active authored draft:** [Campaign v0.1](Campaign%20Draft%20v0.1.md) supplies the coherent twelve-beat route and three playable endings. [First Five Hours](First%20Five%20Hours.md) now owns the detailed opening, including its finite survey and optional bookings. The campaign's local Keeper mechanism governs its later events; broader alternatives below remain reference.
 
 An adventure about a young provider leaving home to improve his family's prospects, making room for his own ambitions, and learning to share responsibility when that life becomes frightening.
 
@@ -13,9 +13,9 @@ This is a proposed narrative spine, not a fixed script or approved ending. [User
 
 ## What the player thinks they are setting out to do
 
-The season's first fair is approaching. [Rocca Selva](../01%20World/Rocca%20Selva.md) needs someone to travel the reopened roads, deliver village goods, register water and pasture agreements, and find out why returning traders disagree about the length of the journey. These are practical responsibilities with room for delight: earn expedition money, meet extraordinary animals, bring back a useful gift, see the famous gardens, perhaps decide where to belong.
+The road-opening fair begins in [Rocca Selva](../01%20World/Rocca%20Selva.md). The protagonist leaves home **seeking work**, carrying lunch and the good shirt. Tavio has brought work notices and can point to Pell; meeting or helping him is optional. Pell's concrete offer is to record water access at Cistern Crown and two Bell Road markers, then deliver a truthful report at Three-Awning Exchange. It pays 36 coins, including a 12-coin advance, and a first field reference. Unsafe findings earn the same wage; it is not a general obligation to repair the village or solve a mystery.
 
-The protagonist takes a **paid temporary road stewardship** because it can fund departure and provide references for better work. At eighteen or nineteen, he already supports his mother and three younger siblings. The family agrees a practical first absence; he wants to send more home and experience a larger life himself. [Personal Story](Personal%20Story.md) develops the arc, [Family at Home](Family%20at%20Home.md) the household, and [First Paid Journey](First%20Paid%20Journey.md) a concrete commission. The posting grants introductions and obligations, not legal command over cities or unique cosmic access. Responsibility for strangers extends existing care through particular commitments. The father's absence remains explicitly unresolved.
+At eighteen or nineteen, he already supports his mother and three younger siblings. Ada reviews the actual terms before acceptance, at her market worktable or home fallback. Pell then travels ahead to the exchange. The family arrangement leaves both support at home and money for the protagonist's own road. [Opening Day Script](Opening%20Day%20Script.md) owns these scenes; [Personal Story](Personal%20Story.md) and [Family at Home](Family%20at%20Home.md) develop their meaning. Later field work can broaden into handling, escort and stewardship without granting legal command or unique cosmic access. The father's absence remains explicitly unresolved.
 
 The mountain is a home with aspirations and arguments. Some neighbors want better access to city medicine; others resent maintenance obligations hidden inside generous aid. The protagonist begins outside the great camps without being raised outside politics.
 
@@ -31,7 +31,7 @@ This is the story's strongest provisional danger: **help may become inseparable 
 
 | Movement | Foreground experience | Narrative change | Evidence needed to advance |
 |---|---|---|---|
-| **I. A world worth crossing** | Mountain fair, creature encounters, beautiful routes, useful work, the pleasure of competence | The player's small commitments open a wider region | Complete or deliberately hand off the opening stewardship; choose a first destination |
+| **I. A world worth crossing** | Mountain fair, creature encounters, beautiful routes, useful work, the pleasure of competence | The player's small commitments open a wider region | Settle the finite opening survey; optional bookings and local stories can be declined before choosing a destination |
 | **II. The shape of a gift** | Rival cities offer attractive futures; local problems have reasonable competing explanations | Two independent cases suggest that useful accords can suppress distinctions | Witness one discrepancy and encounter a second independent account; either city can come first |
 | **III. What refusal costs** | Expeditions, revisits, difficult hearings, deeper relationships | The issue becomes practical: people cannot meaningfully refuse help they cannot survive without | Establish an affected person's expressed preference, a material dependency, and a credible means of checking a claim |
 | **IV. A world allowed to disagree** | A cross-community assembly and an expedition to a shared junction | The player helps make a durable arrangement, with identifiable benefits and burdens | Assemble a viable coalition or pursue an explicitly narrower local settlement |
@@ -46,7 +46,7 @@ Every movement needs a physical adventure whose outcome gives the later conversa
 
 | Movement | Physical objective and landscape | Creature encounter and discovery | Playable climax to design later |
 |---|---|---|---|
-| **I** | Carry the village's goods across a mountain saddle occupied by a slow cloud; recover windblown festival cloth | A Kitefin's cloth theft reveals a displaced roost; a Bellwether responds to confusing festival tones | Reopen a crossing through observation, repair, and a first cooperative action; reach the cloud-side fair |
+| **I** | Survey the Bell Road, then optionally work above White Orchard's canopy or recover a shifted wagon load | Clatter's crowd response, Glassgrazer feeding routes and the Rope Walk Kitefin reward attention | Finish one real paid journey; the two exclusive afternoon adventures reconverge at Rocca's inhabited evening fair |
 | **II** | Trace the Ninefold Garden's suspended rain circuit from terraces into an overhead nursery | Ribbonwake and Morrow Moths reveal that different parts of the apparently unified garden need incompatible conditions | Keep a nursery and public treatment supplied while separating one circuit; return with an actual boundary the witnesses can test |
 | **III** | Carry three independent accounts across the junction's welcoming shortcut and survey an exit it repeatedly fails to display | A companion's ordinary preferences and wild animals' movements reveal a route outside the shortcut's assumptions | Preserve a physical retreat route while the party takes the less accommodating path; deliver people and unmerged evidence to the meeting |
 | **IV** | Enter the destabilized junction, reach stranded delegates, and return through hanging water and impossible depth | Wild Ribbonwake, material-consuming Undoers, a displaced Vergecat, and companions with bounded abilities | Rescue and partition under pressure; emerge with enough independent lives and records to make a real settlement |
@@ -57,9 +57,9 @@ Movement III's preparation journey and Movement IV's descent are detailed in [A 
 
 [First Region](First%20Region.md) now gives this movement a hub and three outward loops, two additional adventures, a first-companion exemplar, and staged introductions to recurring travelers. [Cast Arcs and Relationships](Cast%20Arcs%20and%20Relationships.md) follows shared work into friendship, rivalry, damaged trust, and later cooperation. The cast changes through their own choices as well as the protagonist's involvement; an optional early meeting is never the only route to a comprehensible later rescue.
 
-[Bells Before Breakfast](Quests/Bells%20Before%20Breakfast.md) introduces an inhabited place before an existential problem. The first remarkable creature might be asleep in a bread basket; the first spectacular vista might be a living ribbon of airborne rays threading a mountain cloud. The player learns that companionship can be cooperative, inconvenient, and rewarding.
+[Opening Day](Opening%20Day%20Script.md), expanding [Bells Before Breakfast](Quests/Bells%20Before%20Breakfast.md), introduces an inhabited place before an existential problem. The working Cragmantle, optional Clatter invitation and local residents provide immediate reasons to approach. [Rocca Residents and Side Stories](Rocca%20Residents%20and%20Side%20Stories.md) gives the return ordinary comedy, pleasure and changed relationships.
 
-Do not place a screaming face behind the first cute animal. One bell sounds where no bell should be, or a delivery tally contains an unexplained correction. The protagonist has a good day anyway. Subsequent evidence should make a player remember the detail, not feel punished for having enjoyed the scene.
+The active first discrepancy is a physical road marker differing from Pell's sketch. Keep both readings without an ominous sting; replacement or copying errors remain possible. The earlier stray-bell and parcel-count hooks are alternatives, not an obligatory additional mystery sequence. The protagonist can have a good day with a question left over.
 
 ## The middle remains genuinely open
 

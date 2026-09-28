@@ -1,9 +1,10 @@
 {
   "edition": "0.1",
+  "revision": "first-five-hours-draft-2026-09-28",
   "repository": "https://github.com/AhmadTahmid/folded-marches-design",
   "status": "authored design draft; full spoilers; implementation deferred",
-  "markdown_pages": 82,
-  "verified_relative_links": 637,
+  "markdown_pages": 92,
+  "verified_relative_links": 768,
   "files": [
     {
       "path": ".gitignore",
@@ -17,13 +18,13 @@
     },
     {
       "path": "00 Foundation/Design Status v0.1.md",
-      "bytes": 4167,
-      "sha256": "5075ccd45d2983e8df44317526993eb2a86929112e41e4317dc799e2a1c0847b"
+      "bytes": 5454,
+      "sha256": "b0d537cfa22351767f160a2c402b8843375ad6dd014845399ab9869dbebb0868"
     },
     {
       "path": "00 Foundation/Game Design v0.1.md",
-      "bytes": 8668,
-      "sha256": "797adb06f16175ea13f8f07e8a9a1b7798a662442ff41faa9502044fefac9c85"
+      "bytes": 9045,
+      "sha256": "994b2c611867ff1d0544b644e700b483a6f20c0583853f2842a255806343aec2"
     },
     {
       "path": "00 Foundation/Glossary.md",
@@ -86,9 +87,14 @@
       "sha256": "7f46e3e5b7aea87883d815f11de676b2e0e15e7d4614a8853f00a10df0439e14"
     },
     {
+      "path": "01 World/Rocca Selva Detailed Atlas.md",
+      "bytes": 36860,
+      "sha256": "74a2f3aa6b09000901b7c8c5a2b408c81a64752df6b6dc1bb7ef179cfbb4f891"
+    },
+    {
       "path": "01 World/Rocca Selva.md",
-      "bytes": 16450,
-      "sha256": "9447fb92127b9cf172cd46a21dc3cc3631a51141a23fd86317af333a9c47a946"
+      "bytes": 19666,
+      "sha256": "29275c20c2ce51db4c2e6ea28a1d3e656097fce69bfa5dc37a140811505ca3c8"
     },
     {
       "path": "01 World/The Confluence.md",
@@ -107,8 +113,8 @@
     },
     {
       "path": "02 Narrative/Campaign Draft v0.1.md",
-      "bytes": 15228,
-      "sha256": "5bb236931ddab5f6f0f283db9368158cc93584df9f1a82137dc5df73dacd897e"
+      "bytes": 16119,
+      "sha256": "145b641da9ab3e55029217faadf954619e87165a239d1aa202a0ac3055f2171e"
     },
     {
       "path": "02 Narrative/Cast Arcs and Relationships.md",
@@ -127,23 +133,28 @@
     },
     {
       "path": "02 Narrative/Family at Home.md",
-      "bytes": 8162,
-      "sha256": "7f84b62124698a3cf2e71ef3689313595950acf550f4c2c713fd6846dd05c0c6"
+      "bytes": 8991,
+      "sha256": "1f47865a24bd1cda161750b161352eaa68db1bd13dccfa1a0449b22462a7d412"
     },
     {
       "path": "02 Narrative/First Companion.md",
-      "bytes": 10526,
-      "sha256": "2bb79b0e2668a9ae5701feadf8bfe8ea85fb95eadf1ff5fe3ed843d4e26f062d"
+      "bytes": 10928,
+      "sha256": "06c3b92188086f11eb6f1d3c765ae0c53a9e41f484b8834a81f47d9873142447"
+    },
+    {
+      "path": "02 Narrative/First Five Hours.md",
+      "bytes": 8498,
+      "sha256": "72032fe09be8206d71895216ea9873e350a6da4df429869554df5acd9b1e6796"
     },
     {
       "path": "02 Narrative/First Paid Journey.md",
-      "bytes": 8859,
-      "sha256": "ebf023a041bbbe6283750fa2ac7a8b82f7bed4ac8bba458230157fb96d89602d"
+      "bytes": 4951,
+      "sha256": "ab92f0bd3f4f8767aa727a576623f4a12fb6cad33f6dd223a5885e0e1707bdd0"
     },
     {
       "path": "02 Narrative/First Region.md",
-      "bytes": 10686,
-      "sha256": "e8cd13e22d3c759ffade094d731f569f21736e0db1a722e7581c09b59ebc1c32"
+      "bytes": 11267,
+      "sha256": "4c80b24bbf51595e314e886a147ea3457df1e267e369197528d4e5d79569d183"
     },
     {
       "path": "02 Narrative/Foreshadowing and Revelation Ledger.md",
@@ -161,14 +172,19 @@
       "sha256": "9d5a17954d514824b4e3e6000d02cf2dd555b95c4bd56946c58465b8d1b1537b"
     },
     {
+      "path": "02 Narrative/Opening Day Script.md",
+      "bytes": 29491,
+      "sha256": "32f8fc615b2ce600a74f193259610f8fe2fed9dd061e35701f456cf457bae8f6"
+    },
+    {
       "path": "02 Narrative/Opening Script v0.1.md",
-      "bytes": 7899,
-      "sha256": "68e948b6ea6696bafa6997abb298a37d4d5e214fd085bfae8d09647852777b54"
+      "bytes": 2784,
+      "sha256": "4b6653647c78cd8383f29f3ca06966eed0ec0d3ea6e529e861a5fac929b53cf9"
     },
     {
       "path": "02 Narrative/Personal Story.md",
-      "bytes": 13782,
-      "sha256": "ded71263ed3bf53b82ffc2b621ffe76dc33f901a54a92b77cf4bf0cc6fcba2f2"
+      "bytes": 13735,
+      "sha256": "61f60e18f217278429031dcbfb97143e74a1891a6f183ca5e3972f1c8a86160b"
     },
     {
       "path": "02 Narrative/Protagonist Options.md",
@@ -177,8 +193,8 @@
     },
     {
       "path": "02 Narrative/Quest Index.md",
-      "bytes": 7550,
-      "sha256": "1995e052364285783ee9627ba21df1fc52f47385087b2a1d3020c55d48f7515a"
+      "bytes": 8335,
+      "sha256": "003326cdd04ca6cd22bd9f20f0e6ea7122ba3fef1b06ed96784304593fcc4de6"
     },
     {
       "path": "02 Narrative/Quests/A Bell Above the Clouds.md",
@@ -202,8 +218,8 @@
     },
     {
       "path": "02 Narrative/Quests/Bells Before Breakfast.md",
-      "bytes": 8089,
-      "sha256": "2df6ed0fe878d172c37aab0351ff3fbbbaa298cb1891130cdb03bfc2e2af3438"
+      "bytes": 4475,
+      "sha256": "2d431a744d0f0f5833e17b84a9df91d8b58725591038d87c1885a0f621cf26fe"
     },
     {
       "path": "02 Narrative/Quests/Feast for an Empty Place.md",
@@ -222,8 +238,8 @@
     },
     {
       "path": "02 Narrative/Quests/Under the White Branches.md",
-      "bytes": 6556,
-      "sha256": "9d4416914c5e723e488e0d79d851a8d1ae2e080ee29837ecefb8eb7ad608063f"
+      "bytes": 8270,
+      "sha256": "bd99c548b80604c26b0922557eccfe70aa504684ceb134ed2eb49da91d40fe35"
     },
     {
       "path": "02 Narrative/Quests/White Road Moving.md",
@@ -231,14 +247,24 @@
       "sha256": "4c5a20559a13e3b941b5d204b2799d74dfe1adaf6aabaa64bec10d7971040eed"
     },
     {
+      "path": "02 Narrative/Rocca Residents and Side Stories.md",
+      "bytes": 46890,
+      "sha256": "32c3d3bd575234a18e3c8a207ef13905273db00f719df15aeea09e475ddeefcf"
+    },
+    {
       "path": "02 Narrative/Story Architecture.md",
-      "bytes": 16021,
-      "sha256": "cef912012ae224a46d84873081afa672c6c3fe684e3ab582ed71bdf025d492db"
+      "bytes": 16329,
+      "sha256": "52ab0cf084d588b75b920dbbfa49da493d8913f689062479484310c133748bec"
     },
     {
       "path": "02 Narrative/The Observer and the Sanctuary.md",
       "bytes": 16230,
       "sha256": "65d8b11bfc5e82108b1a78c58b426d9ffcf3e6afe4815b49d2500e86d081a04f"
+    },
+    {
+      "path": "02 Narrative/Two Bookings Script.md",
+      "bytes": 22758,
+      "sha256": "d8c63668a3cea2a14d2bb670b33d5c5104489a7aa872c1b41baff3c6ed8076d1"
     },
     {
       "path": "03 Game Design/Action Economy Comparison.md",
@@ -247,8 +273,8 @@
     },
     {
       "path": "03 Game Design/Adventure Rules v0.1.md",
-      "bytes": 14104,
-      "sha256": "b2bb1d6a8b771da7cfc31fe044bcdd53a29125725a9368e7b40d33021bfb99f1"
+      "bytes": 15438,
+      "sha256": "a861f5cbd7ff1f3c2786427d88ab7ce7c82e8a3ed9cf0496d7e5ac4dac8af1e9"
     },
     {
       "path": "03 Game Design/Art and Sound Direction.md",
@@ -262,8 +288,8 @@
     },
     {
       "path": "03 Game Design/Combat Learning Sequence.md",
-      "bytes": 12382,
-      "sha256": "d38f2ec98d2c8885f3db3fc779bf5396b33a2a56e71b4bbc10ac29a890dc741f"
+      "bytes": 13050,
+      "sha256": "fa28530d6d92f00421597abe3d57f95eadb2c1bdb2012a9d71a65a74f2e063d4"
     },
     {
       "path": "03 Game Design/Companionship and Catching.md",
@@ -324,6 +350,21 @@
       "path": "03 Game Design/Mounts and Field Abilities.md",
       "bytes": 6284,
       "sha256": "0c1d74826c65d1fb3f8fb9f8b0f07588c26d5866b6b485c7728bf42a9da8d739"
+    },
+    {
+      "path": "03 Game Design/Opening Battle Encounters.md",
+      "bytes": 8836,
+      "sha256": "479828a2b779f75e1d910edffa38c4bfe7ae757f271a7b7629664fc3e841001f"
+    },
+    {
+      "path": "03 Game Design/Opening Creatures and Commerce.md",
+      "bytes": 45807,
+      "sha256": "e5dd94225079cf6ab9486c07b7581cb5bbaf1797e33087c7fa450a2aa08e9c78"
+    },
+    {
+      "path": "03 Game Design/Opening Progression and State.md",
+      "bytes": 16091,
+      "sha256": "a3f266f8e58b93c8c1bdfd29c486a7b3a1eab1927810d75b12287f3fbb0fe129"
     },
     {
       "path": "03 Game Design/Progression and Talents.md",
@@ -387,8 +428,8 @@
     },
     {
       "path": "04 Production/Build from the Wiki.md",
-      "bytes": 4565,
-      "sha256": "ed919a3bcf28457325c439cfc5046f6e5f338965feb94c660c60ec351113d639"
+      "bytes": 4947,
+      "sha256": "0744c41b72c7b77e2684161e71a00541a5ea5fd8522c52c99dec08fbc0905de6"
     },
     {
       "path": "04 Production/Creature Art Direction and Review.md",
@@ -397,13 +438,23 @@
     },
     {
       "path": "04 Production/Engagement Reset.md",
-      "bytes": 10252,
-      "sha256": "7618def98c856d9f2bece5e0ccb115ad04eabb88369591afce2a97ee8499505f"
+      "bytes": 10648,
+      "sha256": "4cb7e4d27f017a6adfd99b2fe3becedfbe8366899b2eb5df43c633533a54dc44"
+    },
+    {
+      "path": "04 Production/First Five Hours Completion Audit.md",
+      "bytes": 8762,
+      "sha256": "7b906e8927190414e7a41826a1c8b2d2a6d523a940d33b81ae5b75a8e2d0efb7"
+    },
+    {
+      "path": "04 Production/First Five Hours Handoff.md",
+      "bytes": 11444,
+      "sha256": "29e73ece1b4c68aaca39fe4afd98e5ffb3edd9046415e46196e8e5e97d9620ab"
     },
     {
       "path": "04 Production/Wiki v0.1 Checklist.md",
-      "bytes": 3570,
-      "sha256": "df0f7daf3f7f3eda57a8d51ea16d375070e14bad4e6b8e5fd730d2d080dfa0c0"
+      "bytes": 4145,
+      "sha256": "f98b213b0f716cf9ca403871a0ad87fb3eca9e5a73d358196e0cd720e9cb6b71"
     },
     {
       "path": "06 References/Lanternfall Movement Reference.md",
@@ -412,13 +463,13 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 1263,
-      "sha256": "80ccd77a6ae25be5cef995fe1d757886ea9f9daa0c842dbd4189461ebf983afe"
+      "bytes": 1755,
+      "sha256": "ab77ae12b51b2eaf786ca2e06cc1d7870201135ae463d1d66b468be8599f2de0"
     },
     {
       "path": "README.md",
-      "bytes": 2289,
-      "sha256": "9f31157a73c7421b1c21ce81d6ee8d212a6e8e1da266ccca42a9aa3f54c7d59f"
+      "bytes": 3777,
+      "sha256": "87546dba9719ff0d8525074a67a5385b718057a3a527d31605274fa1daa8ad4c"
     }
   ]
 }

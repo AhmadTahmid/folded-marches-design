@@ -57,13 +57,15 @@ The goal is therefore a margin of choice: repairs before a leak becomes serious,
 
 ## A departure they negotiate
 
-The proposed first field placement is finite, with travel support, lodging, stated pay, and a wage advance. Ada checks the terms with him. A portion of the advance stays home; a portion equips the journey. Existing work and a modest agreed reserve cover the first absence. Mara can help verify an employer; she is a separate community contact, not silently his mother.
+The [current opening](Opening%20Day%20Script.md) begins with work-seeking, not an accepted posting. He takes lunch and the good shirt to the fair, where Tavio can point him to Pell's directly approachable notice. Ada later reviews the actual terms at her market worktable or the home fallback; this is one conversation, not a permission quest or required second home visit. Her optional table story leaves that review accessible.
+
+Pell's finite survey pays **36 coins**: 12 advance split 8 home / 4 purse, then 24 split 8 home / 16 purse. Food, necessary tools and emergency lodging are covered. He starts with eight personal coins; household support is recorded by those receipts and is not charged again at supper. The optional orchard or wagon booking has its own stated split in [First Five Hours](First%20Five%20Hours.md). Unsafe findings earn the base wage; repairs, recruitment and Mara's practice are not conditions. Existing work covers the first absence. Mara remains a separate community contact.
 
 They choose a known carrier for letters and agree to review the arrangement after the first completed placement. This is an authored story milestone, not a hidden countdown. Taking a side route or searching through several in-game nights cannot make the children hungry.
 
 Later commissions may visibly support a roof repair or Lina's training. Routine support is accounted for within agreed contract rewards; the player does not repeatedly purchase groceries, grind remittances, or trade essential battle preparation against family suffering. Special gifts can remain optional expressions of attention, without affection scores or cruel comparisons.
 
-**Departure scene:** Ada removes three unnecessary items from his bag. Tobin adds a fourth. Lina announces that she will not inherit every job he dislikes. He laughs, then notices that she is serious. They finish the argument before saying goodbye.
+**Family scene variation:** Ada removes three unnecessary items from his bag. Tobin adds a fourth. Lina says she will not inherit every job he dislikes. [Rocca Residents and Side Stories](Rocca%20Residents%20and%20Side%20Stories.md) gives that disagreement its current dialogue, her paid lettering work and an independently arranged carrier. These scenes do not retroactively place the survey contract before the morning's work-seeking.
 
 ## People continue while he is away
 

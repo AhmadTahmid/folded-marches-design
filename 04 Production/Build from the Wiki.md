@@ -6,7 +6,7 @@ updated: 2026-09-28
 ---
 # Build from the wiki
 
-The current assignment is writing and publishing **design v0.1**, not commissioning a game build. This page prepares a later handoff. No browser collaborator has been dispatched by its existence.
+The current assignment supplies the expanded **first-five-hours design** for the user to implement. Use the [opening handoff](First%20Five%20Hours%20Handoff.md) for its complete source packet, dependencies and review routes. This page retains general handoff guidance; no browser collaborator has been dispatched by its existence.
 
 ## Read a game, not a chat history
 
@@ -16,7 +16,9 @@ A GitHub link gives access only if the receiving chat can actually retrieve it. 
 
 The design repository contains no game runtime. For an integration task, also supply the exact source snapshot, assets, entry point and test/launch commands. For a deliberately independent experiment, state that explicitly. A wiki alone cannot tell an agent the unwritten interfaces of a local engine.
 
-## One useful later assignment
+## Historical small-study assignment
+
+The prompt below belongs to the earlier v0.1 study. For the newly authored full opening, use [First Five Hours Handoff](First%20Five%20Hours%20Handoff.md). Its broader village content and dialogue supersede the old compressed first walk.
 
 > Read the attached/retrieved design revision and report the exact files available. Build an independent exploration study of Rocca Selva's household landing, Gutter Lane and Bell Court. Use the spatial brief and Opening Script v0.1. The village must have its own contours, covered water system, inhabited landings and routes; do not reproduce Bellwater or Lanternfall's map. Show the household departure, one ordinary comic encounter and the view toward the two roads. Keep the protagonist's family and motive intact. Creatures follow their species briefs; label any proxy. Support satisfying walking, running, jumping and rolling where the terrain makes them useful, with a non-precision route through required objectives. State how sprite art and animation were actually produced. Return playable source, all local dependencies, editable content, launch instructions, screenshots, a list of deliberate departures and the checks actually run. Do not claim the result is the full opening or integrated into an unavailable engine.
 
