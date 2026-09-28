@@ -1,0 +1,404 @@
+{
+  "edition": "0.1",
+  "repository": "https://github.com/AhmadTahmid/folded-marches-design",
+  "status": "authored design draft; full spoilers; implementation deferred",
+  "markdown_pages": 78,
+  "verified_relative_links": 607,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 29,
+      "sha256": "16fbfeffc6220101246d367318ec90130264a3b5b76c5a3c477cd32c799db920"
+    },
+    {
+      "path": "00 Foundation/Creative Charter.md",
+      "bytes": 8070,
+      "sha256": "36bd04303d8da8934220d01e7eedfbaad23baf9a2565600767b8def578f2d3fe"
+    },
+    {
+      "path": "00 Foundation/Design Status v0.1.md",
+      "bytes": 3689,
+      "sha256": "b91def152c8ea5f4345b439d416bb85919676b1f6ce1ef6acd1c40a58f7b167f"
+    },
+    {
+      "path": "00 Foundation/Game Design v0.1.md",
+      "bytes": 8668,
+      "sha256": "797adb06f16175ea13f8f07e8a9a1b7798a662442ff41faa9502044fefac9c85"
+    },
+    {
+      "path": "00 Foundation/Glossary.md",
+      "bytes": 2115,
+      "sha256": "f0592afab078834b1541a3c7438c63f3f39689abaad08d512f2d97b4b41aeaf2"
+    },
+    {
+      "path": "01 World/Atlas.md",
+      "bytes": 11545,
+      "sha256": "952d48c295a7c46b9f44370a34f6656a410311702cd30a160103561497826ff0"
+    },
+    {
+      "path": "01 World/Atmospheric Frontiers.md",
+      "bytes": 12465,
+      "sha256": "643cf21543ac0719c50db26abac7038c58449f39d5461eedeae1cbe6d9d9ae89"
+    },
+    {
+      "path": "01 World/Bestiary.md",
+      "bytes": 40505,
+      "sha256": "952b83834dc7e45ea69e36c4bc745012f7ad9304c43ff416a5fea813a1c3e617"
+    },
+    {
+      "path": "01 World/Creature Roster v0.1.md",
+      "bytes": 14950,
+      "sha256": "a1f0e3f300b8689d888b3242b5b4b8daeb32346ee8e327f019619e25b53a5e97"
+    },
+    {
+      "path": "01 World/Creatures/Latchrunner.md",
+      "bytes": 4929,
+      "sha256": "d78014f979e1ecd5d14bf6b0e284f0046609d3f9044e7a3d84133885d9578f04"
+    },
+    {
+      "path": "01 World/History and the Opening.md",
+      "bytes": 7471,
+      "sha256": "c3abc399e7c8530b7b1ed931b96347b562b8f71a90ed9f16bb108dbfcadf5824"
+    },
+    {
+      "path": "01 World/Istravel.md",
+      "bytes": 7446,
+      "sha256": "a348654313e9555eae240f8fe198809c2dffeb75c37e8725e09cd162384e8ba6"
+    },
+    {
+      "path": "01 World/Largesse and Accords.md",
+      "bytes": 8361,
+      "sha256": "e5cabd42bd995e4bbb4b0ea3815974306ecf7656e88049cdc9e1038dc93193c4"
+    },
+    {
+      "path": "01 World/Orthe.md",
+      "bytes": 6842,
+      "sha256": "b6c32fcc710967267741012888a6d6c1b2a2fded1f9e11e074517ea82d962fab"
+    },
+    {
+      "path": "01 World/People of the Marches.md",
+      "bytes": 24150,
+      "sha256": "8a100d4f79daf7f907521ec1b199c8801e1e7c1009b56df514f1dfab61bb4936"
+    },
+    {
+      "path": "01 World/Regional Map v0.1.md",
+      "bytes": 9320,
+      "sha256": "7f46e3e5b7aea87883d815f11de676b2e0e15e7d4614a8853f00a10df0439e14"
+    },
+    {
+      "path": "01 World/Rocca Selva.md",
+      "bytes": 16450,
+      "sha256": "9447fb92127b9cf172cd46a21dc3cc3631a51141a23fd86317af333a9c47a946"
+    },
+    {
+      "path": "01 World/The Confluence.md",
+      "bytes": 7366,
+      "sha256": "2efac31e387331715f758233d59c4e0cbdafe2e6e0ae9c8971794355a04a7b3a"
+    },
+    {
+      "path": "01 World/Traveling Cast.md",
+      "bytes": 16669,
+      "sha256": "bd77326300a325eb1c27951f31d6394b06c738434210baaf1263dc88ca03ffcc"
+    },
+    {
+      "path": "01 World/World Overview.md",
+      "bytes": 9682,
+      "sha256": "1d59f49ba6715c9958b6821dd61e8485a1e9cb94e4256a812c5519d5b54e19c2"
+    },
+    {
+      "path": "02 Narrative/Campaign Draft v0.1.md",
+      "bytes": 15228,
+      "sha256": "5bb236931ddab5f6f0f283db9368158cc93584df9f1a82137dc5df73dacd897e"
+    },
+    {
+      "path": "02 Narrative/Cast Arcs and Relationships.md",
+      "bytes": 14678,
+      "sha256": "744c0df2e5be0d2053ef0f5d98e1e45aae1469bc21388418d374390108650cba"
+    },
+    {
+      "path": "02 Narrative/Companion Quests and Camp Conversations.md",
+      "bytes": 14017,
+      "sha256": "2f71d20a1706003b1795deb9561b60c61af9720e3bdd96a12d3e3c309d277d28"
+    },
+    {
+      "path": "02 Narrative/Cosmic Possibilities.md",
+      "bytes": 12315,
+      "sha256": "abe983510f93b297e89e2f5537543f95ebca94942031a1eb25eee66beb30397a"
+    },
+    {
+      "path": "02 Narrative/Family at Home.md",
+      "bytes": 8162,
+      "sha256": "7f84b62124698a3cf2e71ef3689313595950acf550f4c2c713fd6846dd05c0c6"
+    },
+    {
+      "path": "02 Narrative/First Companion.md",
+      "bytes": 10526,
+      "sha256": "2bb79b0e2668a9ae5701feadf8bfe8ea85fb95eadf1ff5fe3ed843d4e26f062d"
+    },
+    {
+      "path": "02 Narrative/First Paid Journey.md",
+      "bytes": 8859,
+      "sha256": "ebf023a041bbbe6283750fa2ac7a8b82f7bed4ac8bba458230157fb96d89602d"
+    },
+    {
+      "path": "02 Narrative/First Region.md",
+      "bytes": 10686,
+      "sha256": "e8cd13e22d3c759ffade094d731f569f21736e0db1a722e7581c09b59ebc1c32"
+    },
+    {
+      "path": "02 Narrative/Foreshadowing and Revelation Ledger.md",
+      "bytes": 11626,
+      "sha256": "864b6b668faee4e999fb52e7e9a448a3e8d70daf155b84a1c7f211d5d83b7165"
+    },
+    {
+      "path": "02 Narrative/Horror and Fourth Wall.md",
+      "bytes": 17904,
+      "sha256": "2ddddb148aa653673a17e7b6312d9976d453dc9046f2430e5816e64c685d1166"
+    },
+    {
+      "path": "02 Narrative/Mysteries and Revelations.md",
+      "bytes": 10343,
+      "sha256": "9d5a17954d514824b4e3e6000d02cf2dd555b95c4bd56946c58465b8d1b1537b"
+    },
+    {
+      "path": "02 Narrative/Opening Script v0.1.md",
+      "bytes": 7899,
+      "sha256": "68e948b6ea6696bafa6997abb298a37d4d5e214fd085bfae8d09647852777b54"
+    },
+    {
+      "path": "02 Narrative/Personal Story.md",
+      "bytes": 13782,
+      "sha256": "ded71263ed3bf53b82ffc2b621ffe76dc33f901a54a92b77cf4bf0cc6fcba2f2"
+    },
+    {
+      "path": "02 Narrative/Protagonist Options.md",
+      "bytes": 8377,
+      "sha256": "4ac18df73ed766580d02d287fc089356f66e7aa85dddd5b1e429b1ee0d30e346"
+    },
+    {
+      "path": "02 Narrative/Quest Index.md",
+      "bytes": 7550,
+      "sha256": "1995e052364285783ee9627ba21df1fc52f47385087b2a1d3020c55d48f7515a"
+    },
+    {
+      "path": "02 Narrative/Quests/A Bell Above the Clouds.md",
+      "bytes": 6662,
+      "sha256": "7d9308f3b649d6628c2df61ad2d0cb1e01d16cc0b1a5922fee06542d83866fb3"
+    },
+    {
+      "path": "02 Narrative/Quests/A Room for the Keeper.md",
+      "bytes": 11928,
+      "sha256": "128e010fa4955a423238924ee758c662d3e34e35b083a5aba55e1b2b91c6bf34"
+    },
+    {
+      "path": "02 Narrative/Quests/A Seat Reserved for Rain.md",
+      "bytes": 9900,
+      "sha256": "6096356a9573bb4991849e2d294792201080b8e61db412b1bf344be487c29258"
+    },
+    {
+      "path": "02 Narrative/Quests/A Table That Keeps Its Empty Chair.md",
+      "bytes": 17676,
+      "sha256": "92e289383ca0842080a705e522daafa8f35be0b49d202304a19bf9941d699d6d"
+    },
+    {
+      "path": "02 Narrative/Quests/Bells Before Breakfast.md",
+      "bytes": 8089,
+      "sha256": "2df6ed0fe878d172c37aab0351ff3fbbbaa298cb1891130cdb03bfc2e2af3438"
+    },
+    {
+      "path": "02 Narrative/Quests/Feast for an Empty Place.md",
+      "bytes": 7085,
+      "sha256": "8a347dfb51dc0778f62db581bc8f7687966221820d98d3801d6ef94cd7472246"
+    },
+    {
+      "path": "02 Narrative/Quests/How Many Hands Are Mine.md",
+      "bytes": 7276,
+      "sha256": "44e7c604ce97534d99dfb2858a9d63acd3c08b46e235fc3739e98e7695909230"
+    },
+    {
+      "path": "02 Narrative/Quests/The Weight of a Gate.md",
+      "bytes": 7123,
+      "sha256": "bae387f885aa15fd561ed8f42ba3cc6f7138e8654e7b84205528ac6ad254759c"
+    },
+    {
+      "path": "02 Narrative/Quests/Under the White Branches.md",
+      "bytes": 6556,
+      "sha256": "9d4416914c5e723e488e0d79d851a8d1ae2e080ee29837ecefb8eb7ad608063f"
+    },
+    {
+      "path": "02 Narrative/Quests/White Road Moving.md",
+      "bytes": 7172,
+      "sha256": "4c5a20559a13e3b941b5d204b2799d74dfe1adaf6aabaa64bec10d7971040eed"
+    },
+    {
+      "path": "02 Narrative/Story Architecture.md",
+      "bytes": 16021,
+      "sha256": "cef912012ae224a46d84873081afa672c6c3fe684e3ab582ed71bdf025d492db"
+    },
+    {
+      "path": "02 Narrative/The Observer and the Sanctuary.md",
+      "bytes": 16230,
+      "sha256": "65d8b11bfc5e82108b1a78c58b426d9ffcf3e6afe4815b49d2500e86d081a04f"
+    },
+    {
+      "path": "03 Game Design/Adventure Rules v0.1.md",
+      "bytes": 13771,
+      "sha256": "3c97bae6f23c142353823d908a26e7f331ae53ec841a63894649a2a5f87c82c2"
+    },
+    {
+      "path": "03 Game Design/Art and Sound Direction.md",
+      "bytes": 15334,
+      "sha256": "fd7f69acb2d309129686b55a9b6ddf998cdf8705ad45be21f66c1cc414604eaf"
+    },
+    {
+      "path": "03 Game Design/Companionship and Catching.md",
+      "bytes": 11451,
+      "sha256": "3aa12a2054f8ce096f6b88c2f92bd654ffdc533f791a08eb6a0516477272bad0"
+    },
+    {
+      "path": "03 Game Design/Counterplay Battle.md",
+      "bytes": 7762,
+      "sha256": "aa209f04f9138297d4e625829efdc46fb2d5b5e44a29eb07947b30951b5be401"
+    },
+    {
+      "path": "03 Game Design/Creature Activities.md",
+      "bytes": 5869,
+      "sha256": "10f621575d77da5b3387795d47780b7cff3ce54f0009e777747d7b3692329e2d"
+    },
+    {
+      "path": "03 Game Design/Encounter Design.md",
+      "bytes": 7274,
+      "sha256": "74da92d5af01b9bc836de1803f013b7cc189cddb590a7325dbe18f09f62cc107"
+    },
+    {
+      "path": "03 Game Design/Everyday Joy Trade and Appearance.md",
+      "bytes": 8958,
+      "sha256": "16bcaadf48a1e6f4e5b47971cd09022943511357aa144de1e8149e0d6eb739d8"
+    },
+    {
+      "path": "03 Game Design/Exploration and Progression.md",
+      "bytes": 7671,
+      "sha256": "3306dce5e6f828df3c222e101e56a97143cf2156d84335e9d534fb635dbc9bbf"
+    },
+    {
+      "path": "03 Game Design/Feature Priorities.md",
+      "bytes": 7914,
+      "sha256": "2edaa8dcd8528bc82ccfc4c26edaba08da0f6105bb816ebfa44aafbee6f14b91"
+    },
+    {
+      "path": "03 Game Design/First Region Creature Kits.md",
+      "bytes": 14641,
+      "sha256": "e24faa83e70b4b48c92c5c24493fa54ea8a47e263bd0f1e3088e0d4e4eba1688"
+    },
+    {
+      "path": "03 Game Design/Game Direction.md",
+      "bytes": 7853,
+      "sha256": "ad3d554c104b9a6ee5bf2a18ab0e26d5a002eeaf865d5f8d287d7d47d19dbc51"
+    },
+    {
+      "path": "03 Game Design/Interface and Platforms.md",
+      "bytes": 7200,
+      "sha256": "8e4e2c6e5d1a8d50ca849b90f41d1e761914d265c2a232fce2a51e576f0c78e7"
+    },
+    {
+      "path": "03 Game Design/Mounts and Field Abilities.md",
+      "bytes": 6284,
+      "sha256": "0c1d74826c65d1fb3f8fb9f8b0f07588c26d5866b6b485c7728bf42a9da8d739"
+    },
+    {
+      "path": "03 Game Design/Progression and Talents.md",
+      "bytes": 10673,
+      "sha256": "7ace52cd9b10e6d5bb130597c31aa265527a5e1f520080e0bc33e96e0e4d942b"
+    },
+    {
+      "path": "03 Game Design/Prosperity and Dependency.md",
+      "bytes": 4186,
+      "sha256": "ac45f788aaebb34cd3a6cd16b3c06cd62e6006cfc12fa2356fcc385928a383c3"
+    },
+    {
+      "path": "03 Game Design/Quest and World State.md",
+      "bytes": 4410,
+      "sha256": "ebd35fe2446b000915f4838aee14718d5ee743521c244f27bf8799d6bb3d119a"
+    },
+    {
+      "path": "03 Game Design/Rare Encounters.md",
+      "bytes": 6428,
+      "sha256": "0bbe3300e16795d762ccd985fd24459ecdad30175b9c3943b1264223802d1d9c"
+    },
+    {
+      "path": "03 Game Design/Recruitment Eggs and Binding Instruments.md",
+      "bytes": 8862,
+      "sha256": "8edbee28e068e7c8c35efd44636d821be4e06507bc039188f1e32ef1963b1a77"
+    },
+    {
+      "path": "03 Game Design/Resonance Fusion and Last Resorts.md",
+      "bytes": 11061,
+      "sha256": "d596a1e16c40fd9b92a0c8925e4a2f796c2f18387d7b7ef88ac5ce6b022e4eb6"
+    },
+    {
+      "path": "03 Game Design/Scope and Validation.md",
+      "bytes": 5839,
+      "sha256": "f7d7442802066cdc89f8723dbb6e3aa88e5b718256d530caf8fc4bd4843740bf"
+    },
+    {
+      "path": "03 Game Design/Status and Counterplay.md",
+      "bytes": 6044,
+      "sha256": "b9403aa3d3f05197ad04943712b80d3af0c888bd4e76029645511d7cb24a4029"
+    },
+    {
+      "path": "03 Game Design/Tactical Combat.md",
+      "bytes": 10547,
+      "sha256": "91ce7dfc71b64950ca6e49bd8baa5ee4717ee22fc412b71dd3cdc446eafbebab"
+    },
+    {
+      "path": "03 Game Design/Tension Stakes and Recovery.md",
+      "bytes": 12228,
+      "sha256": "4dccb43b9691f75036a3fe65deb32b8bc687bc1bcc836152058f45a677b9965c"
+    },
+    {
+      "path": "03 Game Design/Travel Mapping and Pursuit.md",
+      "bytes": 10280,
+      "sha256": "2530984e686342bc30ad4e94853030cab9c738c1d11226e0a85c91d932c1a095"
+    },
+    {
+      "path": "03 Game Design/Worked Battle.md",
+      "bytes": 8102,
+      "sha256": "5d458a1bf6e2fc2e49ce638291757dca1d1912ed7c16c6c29bc6daa7ac81548e"
+    },
+    {
+      "path": "04 Production/Build from the Wiki.md",
+      "bytes": 4565,
+      "sha256": "ed919a3bcf28457325c439cfc5046f6e5f338965feb94c660c60ec351113d639"
+    },
+    {
+      "path": "04 Production/Creature Art Direction and Review.md",
+      "bytes": 7403,
+      "sha256": "bb0aab3e5a44495396cad243f197997f9503181adac3e27d23b511c874caa2fd"
+    },
+    {
+      "path": "04 Production/Engagement Reset.md",
+      "bytes": 10252,
+      "sha256": "7618def98c856d9f2bece5e0ccb115ad04eabb88369591afce2a97ee8499505f"
+    },
+    {
+      "path": "04 Production/Wiki v0.1 Checklist.md",
+      "bytes": 3328,
+      "sha256": "e2ec24fabcb3bc4810448a52379a8ef8a9afdf652361449f8d5601c28b017da7"
+    },
+    {
+      "path": "06 References/Lanternfall Movement Reference.md",
+      "bytes": 1353,
+      "sha256": "a67ef5e587e10307ca01f89455b7d17bf2e5983835229f2aa9b81c89c1bf43f1"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 1263,
+      "sha256": "80ccd77a6ae25be5cef995fe1d757886ea9f9daa0c842dbd4189461ebf983afe"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2113,
+      "sha256": "2b1c43369e26ac328b7e33dfd9714f80037c779767f8b0c3504d1d3ec03505d0"
+    }
+  ]
+}
