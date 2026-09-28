@@ -11,6 +11,8 @@ On 2026-09-26 the user selected strategic, technical turn-based combat with up t
 
 The intended pleasure is understanding a creature and assembling a response. [Tactical Combat](Tactical%20Combat.md) now owns the proposed turn order, formation, resource and damage rules; [Status and Counterplay](Status%20and%20Counterplay.md) owns effects and removal. [Worked Battle](Worked%20Battle.md) follows a complete small challenge with explicit HP, Focus and cooldown accounting. These detailed mechanics remain draft even though the broad combat direction is selected.
 
+[Combat Learning Sequence](Combat%20Learning%20Sequence.md) develops five concrete draft encounters: a one-partner choice, a shared retrieval objective, an opponent answering a familiar plan, a third-partner rescue and an eventual five-active passage objective. They support skipped practice, different routes and voluntary loans without becoming new survey requirements or adopting their detailed rules as canon.
+
 ## Encounter decisions beyond dealing damage
 
 - **Coordinate:** expose a target, remove its protection, then commit an attacker; the opponent can interrupt that sequence.

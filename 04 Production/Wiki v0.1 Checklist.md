@@ -18,7 +18,7 @@ The milestone is **one coherent first design edition**, not every line and asset
 | People and relationships | Existing household, recurring cast, personal arcs and camp scenes linked into the campaign | Complete reunion/relationship state tables |
 | Creature discovery | [Roster](../01%20World/Creature%20Roster%20v0.1.md): nineteen encounter entries, eight detailed recruitment cards, linked full species lore | Numerical kits for later partners, final art; not all entries are collectible |
 | Adventure systems | [Adventure rules](../03%20Game%20Design/Adventure%20Rules%20v0.1.md): movement, map, recruitment, Duet, growth, purchases, recovery | Balance, full economy and content databases |
-| Tactical grammar | Existing timing/status rules, five numerical benchmark kits and worked battles | Broader encounter roster and playtesting |
+| Tactical grammar | Existing timing/status rules, five numerical benchmark kits and worked battles; [combat review](../03%20Game%20Design/Combat%20Design%20Review.md) adds five identity briefs, five learning encounters and a three-round action-allocation comparison | Human review of comprehension and appeal, broader encounter roster, numerical balance and choice among alternatives |
 | Delegation and sharing | [Build from the Wiki](Build%20from%20the%20Wiki.md), public reading order and versioned source | A later explicitly commissioned implementation task |
 
 ## After this edition

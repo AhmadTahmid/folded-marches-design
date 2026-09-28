@@ -12,6 +12,7 @@ A fantastical creature-companion RPG about leaving home, finding a wider life, a
 | [Opening script](02%20Narrative/Opening%20Script%20v0.1.md) | Short dialogue, staging and the player's first actions |
 | [Creature roster](01%20World/Creature%20Roster%20v0.1.md) | Nineteen encounter entries, eight detailed recruitment briefs and linked species lore |
 | [Adventure rules](03%20Game%20Design/Adventure%20Rules%20v0.1.md) | Exploration, companionship, turn-based combat, growth and recovery |
+| [Combat design review](03%20Game%20Design/Combat%20Design%20Review.md) | New draft creature identities, five learning encounters and a worked action-allocation comparison |
 | [Edition checklist](04%20Production/Wiki%20v0.1%20Checklist.md) | What this version contains and what is still unfinished |
 | [Build from the wiki](04%20Production/Build%20from%20the%20Wiki.md) | A self-contained handoff workflow for later implementation |
 

@@ -8,6 +8,8 @@ updated: 2026-09-28
 
 This is the recommended playable contract for [design v0.1](../00%20Foundation/Game%20Design%20v0.1.md). These choices make one coherent paper game. They are not user approval or claims that a prototype already supports them. Numerical combat details remain owned by [Tactical Combat](Tactical%20Combat.md), [Status and Counterplay](Status%20and%20Counterplay.md) and the [first-region kits](First%20Region%20Creature%20Kits.md).
 
+**Combat development note, 2026-09-28:** [Combat Design Review](Combat%20Design%20Review.md) adds creature identities, optional learning encounters and an action-allocation comparison. The existing individual-activation rules remain this edition's baseline; alternative cards and shared actions are not simultaneous requirements.
+
 ## Out in the world
 
 Walk, run, jump, roll, interact and inspect. Movement should be enjoyable even before earning a reward: a quick run-up, a readable leap, a landing with weight and a roll that returns control promptly. Jumping crosses low gaps, stepping stones and marked ledges; rolling is a playful short evasive movement in exploration, not permission to pass through bodies, walls or locked routes. No compulsory stamina wait on safe roads. A contextual climb handles important ascents without requiring precision platforming everywhere.

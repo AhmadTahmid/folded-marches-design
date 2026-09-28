@@ -28,6 +28,8 @@ These author choices make a coherent document available for review. They do not 
 
 ## Deliberately unresolved
 
+The 2026-09-28 [combat review](../03%20Game%20Design/Combat%20Design%20Review.md) develops new identity and encounter proposals and compares shared actions with individual activations. The user authorized that design work and its public sharing, not a winning action system, revised kit or fixed encounter order. Individual activations and existing numerical kits remain the v0.1 reference. These are post-v0.1 draft additions; the original tagged edition remains unchanged.
+
 The ultimate origin of the Great Opening/Largesse and the father's absence have no hidden agreed answer. The first is unnecessary to resolve this campaign's local antagonist; the second is not used as a hook. The final visual treatment, protagonist customization and preferred ending tone still need user review. Full numerical balance, most later creature kits, every side-quest line and final art are incomplete production content, not fictional mysteries.
 
 Original documents and historical decisions remain in the creator's working archive. The public design edition prioritizes readable game material over implementation logs, account usage and local machine details.

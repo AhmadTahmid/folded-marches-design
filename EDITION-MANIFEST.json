@@ -2,8 +2,8 @@
   "edition": "0.1",
   "repository": "https://github.com/AhmadTahmid/folded-marches-design",
   "status": "authored design draft; full spoilers; implementation deferred",
-  "markdown_pages": 78,
-  "verified_relative_links": 607,
+  "markdown_pages": 82,
+  "verified_relative_links": 637,
   "files": [
     {
       "path": ".gitignore",
@@ -17,8 +17,8 @@
     },
     {
       "path": "00 Foundation/Design Status v0.1.md",
-      "bytes": 3689,
-      "sha256": "b91def152c8ea5f4345b439d416bb85919676b1f6ce1ef6acd1c40a58f7b167f"
+      "bytes": 4167,
+      "sha256": "5075ccd45d2983e8df44317526993eb2a86929112e41e4317dc799e2a1c0847b"
     },
     {
       "path": "00 Foundation/Game Design v0.1.md",
@@ -241,14 +241,29 @@
       "sha256": "65d8b11bfc5e82108b1a78c58b426d9ffcf3e6afe4815b49d2500e86d081a04f"
     },
     {
+      "path": "03 Game Design/Action Economy Comparison.md",
+      "bytes": 12333,
+      "sha256": "b04c87b5e4778a442ee837986da79dd17ee5316ec5130d53b1ca081ec85a648b"
+    },
+    {
       "path": "03 Game Design/Adventure Rules v0.1.md",
-      "bytes": 13771,
-      "sha256": "3c97bae6f23c142353823d908a26e7f331ae53ec841a63894649a2a5f87c82c2"
+      "bytes": 14104,
+      "sha256": "b2bb1d6a8b771da7cfc31fe044bcdd53a29125725a9368e7b40d33021bfb99f1"
     },
     {
       "path": "03 Game Design/Art and Sound Direction.md",
       "bytes": 15334,
       "sha256": "fd7f69acb2d309129686b55a9b6ddf998cdf8705ad45be21f66c1cc414604eaf"
+    },
+    {
+      "path": "03 Game Design/Combat Design Review.md",
+      "bytes": 6152,
+      "sha256": "fb90b3d2d83044bf49beb0cd5c44c6d30789b28cc7c16be734593059679ede4f"
+    },
+    {
+      "path": "03 Game Design/Combat Learning Sequence.md",
+      "bytes": 12382,
+      "sha256": "d38f2ec98d2c8885f3db3fc779bf5396b33a2a56e71b4bbc10ac29a890dc741f"
     },
     {
       "path": "03 Game Design/Companionship and Catching.md",
@@ -266,9 +281,14 @@
       "sha256": "10f621575d77da5b3387795d47780b7cff3ce54f0009e777747d7b3692329e2d"
     },
     {
+      "path": "03 Game Design/Creature Combat Identities.md",
+      "bytes": 10432,
+      "sha256": "74d104a04251a8914ac1bdda82bd63e2499a67cdbe87c724e781ce4de775871e"
+    },
+    {
       "path": "03 Game Design/Encounter Design.md",
-      "bytes": 7274,
-      "sha256": "74da92d5af01b9bc836de1803f013b7cc189cddb590a7325dbe18f09f62cc107"
+      "bytes": 7691,
+      "sha256": "2e5c30ebd586f24e4f95e4aa1ead09043b83037305dfb896cf7e30f28094744f"
     },
     {
       "path": "03 Game Design/Everyday Joy Trade and Appearance.md",
@@ -287,8 +307,8 @@
     },
     {
       "path": "03 Game Design/First Region Creature Kits.md",
-      "bytes": 14641,
-      "sha256": "e24faa83e70b4b48c92c5c24493fa54ea8a47e263bd0f1e3088e0d4e4eba1688"
+      "bytes": 15056,
+      "sha256": "6c86e839c5952e26c0f5f83e6679c4c23482eda10cdf5b03d3ffb4a212936250"
     },
     {
       "path": "03 Game Design/Game Direction.md",
@@ -347,8 +367,8 @@
     },
     {
       "path": "03 Game Design/Tactical Combat.md",
-      "bytes": 10547,
-      "sha256": "91ce7dfc71b64950ca6e49bd8baa5ee4717ee22fc412b71dd3cdc446eafbebab"
+      "bytes": 10917,
+      "sha256": "60b529ccf3116cc3187f23a0f7a9e35d184c252900da549728f4faafce118e86"
     },
     {
       "path": "03 Game Design/Tension Stakes and Recovery.md",
@@ -382,8 +402,8 @@
     },
     {
       "path": "04 Production/Wiki v0.1 Checklist.md",
-      "bytes": 3328,
-      "sha256": "e2ec24fabcb3bc4810448a52379a8ef8a9afdf652361449f8d5601c28b017da7"
+      "bytes": 3570,
+      "sha256": "df0f7daf3f7f3eda57a8d51ea16d375070e14bad4e6b8e5fd730d2d080dfa0c0"
     },
     {
       "path": "06 References/Lanternfall Movement Reference.md",
@@ -397,8 +417,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2113,
-      "sha256": "2b1c43369e26ac328b7e33dfd9714f80037c779767f8b0c3504d1d3ec03505d0"
+      "bytes": 2289,
+      "sha256": "9f31157a73c7421b1c21ce81d6ee8d212a6e8e1da266ccca42a9aa3f54c7d59f"
     }
   ]
 }

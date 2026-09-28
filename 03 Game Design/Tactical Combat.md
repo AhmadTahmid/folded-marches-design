@@ -13,6 +13,8 @@ The intended satisfaction is seeing an opponent's plan, creating a brief opening
 
 ## One readable turn structure
 
+**2026-09-28 paper development:** [Combat Design Review](Combat%20Design%20Review.md) links new identity and teaching proposals. [Action Economy Comparison](Action%20Economy%20Comparison.md) works this baseline against a separate shared-action variant across three rounds. The variant is unselected; it does not change the rules below or the existing worked battles.
+
 **September comparison:** [Tension, Stakes and Recovery](Tension%20Stakes%20and%20Recovery.md) develops clutch objectives and consequences without selecting real-time combat. [Resonance, Fusion and Last Resorts](Resonance%20Fusion%20and%20Last%20Resorts.md) compares paired actions, forms, calls for help and phase changes. Those proposals do not alter the baseline turn rules below: no sixth friendly action/body, no ordinary reserve substitution, no numerical fusion/HP contract yet adopted. Exceptional encounters must state their departures explicitly before play.
 
 1. **Prepare the round.** From round 2 onward, standing creatures recover 1 Focus, up to 3. Refresh their activation markers. Show the enemy's ordered intentions, targets, and fallback rules. Each technique displays its next usable round.

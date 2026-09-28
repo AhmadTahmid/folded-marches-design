@@ -9,6 +9,8 @@ These are five complete **proposed equipped kits**, using the player-side benchm
 
 Every technique, number, and extension of species behavior below remains draft. [Bestiary](../01%20World/Bestiary.md) owns observed ecology; a combat animation does not establish a new universal biological power. There are no talents equipped in this benchmark. [Progression and Talents](Progression%20and%20Talents.md) explores later modifications separately.
 
+**Identity refinement, 2026-09-28:** [Creature Combat Identities](Creature%20Combat%20Identities.md) develops each companion's distinctive decisions, ecological clues and animation gestures, and proposes separate alternatives to overlapping Barrier techniques. All cards and numerical values on this page remain unchanged as the controlled comparison baseline; none of those alternatives is an adopted revision.
+
 ## Common card conventions
 
 [Tactical Combat](Tactical%20Combat.md) owns alternating activations, formation, damage, and Focus. [Status and Counterplay](Status%20and%20Counterplay.md) owns all named effects here. No new status or reaction system is needed.
